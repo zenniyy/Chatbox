@@ -1,5 +1,61 @@
+#mainContainer{
+border: 3px solid rgb(18, 190, 212);
+    background-color: rgb(44, 44, 44);
+    width: 400px;
+    margin: 0 auto;
+    padding: 50px;
+    margin-left: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 12px rgb(21, 149, 223) ;
+    border-radius: 20px;
+}
+
+#result{
+    margin: 30px;
+        border: 3px solid rgb(28, 166, 230);
+        width: 200px;
+        height: 30px;
+        color: rgb(21, 149, 223);
+        border-radius: 9px;
+
+}
+
+#button{
+    background-color: black;
+        color: whitesmoke;
+        margin: 4px;
+        width: 200px;
+        height: 30px;
+        border-radius: 20px;
+        box-shadow: 0 0 9px rgb(21, 149, 223);
+
+}
+#button:hover{
+    background-color: rgb(7, 100, 100);
+}
+#chatbox{
+    margin: 10px;
+        width: 200px;
+        height: 30px;
+        border-radius: 10px;
+
+}
+#container{
+    border: 3px solid rgb(18, 190, 212);
+        background-color: rgb(44, 44, 44);
+        width: 400px;
+        margin: 0 auto;
+        padding: 30px;
+        margin-left: 20px;
+        margin-top: 20px;
+        box-shadow: 0 0 12px rgb(21, 149, 223);
+        border-radius: 20px;
+
+}
+
+
 .img{
-    width: 30px;
-    height: 30px;
+    width: 150px;
+    height: 150px;
 
 }
